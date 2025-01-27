@@ -1,0 +1,16 @@
+*.exe
+*.cache
+*.dll
+*.log
+*.vsconfig
+*.sln
+*.csproj
+*.htm
+3Dmodels/
+test/.vs/
+test/Library/
+test/Logs/
+test/Temp/
+test/UserSettings/
+PSD/
+Bin/
